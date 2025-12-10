@@ -324,28 +324,5 @@
   <use href="#s2-C"        x="600" y="200" width="250" height="300"/>
   <use href="#s2-decimal"  x="900" y="200" width="250" height="300"/>
   </g>
-  
-  <!-- S2 10.3 -->
-  <use href="#s2-S"       x="0"      y="500" width="250" height="300"/>
-  <use href="#s2-2"       x="0"      y="675" width="250" height="300"/>
-  <use href="#s2-1"       x="250"    y="675" width="250" height="300"/>
-  <use href="#s2-0"       x="450"    y="675" width="250" height="300" />
-  <use href="#s2-decimal" x="725"    y="675" width="250" height="300"/>
-  <use href="#s2-3"       x="825"    y="675" width="250" height="300"/>
-  
-  <!-- S2 7.9 -->
-  <use href="#s2-S"       x="1200"    y="500" width="250" height="300"/>
-  <use href="#s2-2"       x="1200"    y="675" width="250" height="300"/>
-  <use href="#s2-7"       x="1500"    y="675" width="250" height="300" />
-  <use href="#s2-decimal" x="1750"    y="675" width="250" height="300"/>
-  <use href="#s2-9"       x="1850"    y="675" width="250" height="300"/>
-  
-  <!-- S2 11.0C -->
-  <use href="#s2-S"       x="0"      y="900" width="250" height="300"/>
-  <use href="#s2-2"       x="0"      y="1075" width="250" height="300"/>
-  <use href="#s2-1"       x="250"    y="1075" width="250" height="300"/>
-  <use href="#s2-1"       x="375"    y="1075" width="250" height="300" />
-  <use href="#s2-decimal" x="560"    y="1075" width="250" height="300"/>
-  <use href="#s2-0"       x="650"    y="1075" width="250" height="300"/>
-  <use href="#s2-C"       x="975"    y="1075" width="250" height="300"/>
+
 </svg>
