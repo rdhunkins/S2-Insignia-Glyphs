@@ -1,7 +1,7 @@
 # S2-Insignia-Glyphs
 S2 Glyph Library — README.txt
 
-This project contains an SVG-based library of the S2 10.3–style hull number glyphs:
+This project contains an SVG-based library of the S2 Sailboat style sail number glyphs:
 digits 0–9, the letter S, the letter A, the letter C, and the decimal point.
 
 These shapes were manually traced and measured from original S2 graphics so they can be reused consistently in digit strings such as “S2 10.3”, sail numbers, graphics documents, or any custom layouts.
