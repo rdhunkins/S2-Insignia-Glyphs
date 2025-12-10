@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/S2_Glyphs_Header.png" alt="S2 Sailboat Insignia Glyph Library Header" width="100%">
+</p>
+
 S2 Sailboat Insignia Glyph Library
 ==================================
 
